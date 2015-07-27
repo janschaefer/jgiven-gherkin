@@ -1,0 +1,3 @@
+```
+./gradlew --daemon generateExamples
+```
